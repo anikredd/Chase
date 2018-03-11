@@ -14,7 +14,7 @@ Please follow the instructions i provided below to run the project by setting up
 3) Andriod Studio
 4) Appium
 5) Tortoise SVN
-Note: Using Real Device with Chase application.
+(Note: Using Real Device with Chase application).
 
 # Installation
 Setting up Appium with Eclipse on Windows Platform.
